@@ -20,3 +20,11 @@ Part 2: Update the Database
 
 - Use NoSQL_setup_starter.ipynb for this section of the challenge.
 	- The magazine editors have some requested modifications for the database before you can perform any queries or analysis for them. Make the following changes to 	   the establishments collection:
+
+
+Part 3: Exploratory Analysis
+- Unless otherwise stated, for each question:
+
+	- Use count_documents to display the number of documents contained in the result.
+	- Display the first document in the results using pprint.
+	- Convert the result to a Pandas DataFrame, print the number of rows in the DataFrame, and display the first 10 rows.
