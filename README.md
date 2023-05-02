@@ -19,3 +19,4 @@ Part 1: Database and Jupyter Notebook Set Up
 Part 2: Update the Database
 
 - Use NoSQL_setup_starter.ipynb for this section of the challenge.
+	- The magazine editors have some requested modifications for the database before you can perform any queries or analysis for them. Make the following changes to 	   the establishments collection:
