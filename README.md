@@ -14,3 +14,8 @@ Part 1: Database and Jupyter Notebook Set Up
 	- Create an instance of the Mongo Client.
 
 	-  Confirm that you created the database and loaded the data properly:
+
+
+Part 2: Update the Database
+
+- Use NoSQL_setup_starter.ipynb for this section of the challenge.
